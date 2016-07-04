@@ -1,3 +1,3 @@
 # Emoji-chat-application
 
-This is an emoji enabled chat application. As of now, only smile and heart emojis are enabled. If a new emoji needs to be added, add that image in images folder and add emoticon to 'emoticons' variable(regex also needs to be changed a bit at this point). 
+This is an emoji enabled chat application. As of now, only smile and heart emojis are enabled. If a new emoji needs to be added, add that image in images folder and add emoticon to 'emoticons' variable(regex also needs to be changed). 
